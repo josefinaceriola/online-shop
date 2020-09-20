@@ -1,7 +1,7 @@
 import React from 'react';
 import Home from './pages/Home';
 import MessengerCustomerChat from 'react-messenger-customer-chat';
-//token EAAhtQCA7ZAykBACPo6N0xbBLwN8ylZAF2emowXQX7d14iwSZCREGUFd7wAqR9nRdTznx7ZAliafMLRl68uoZC3mH45Hh411ZCckZArStBw0PUzj7noLsUYptcZAZAZBUawsf8Th7zZCY2pbOFF1GIBgnbqxkRZCPUpcZCpQOnapQVPXzfxKfbAOtZC83YUCkRG3JSIwU8ZD
+//token
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
